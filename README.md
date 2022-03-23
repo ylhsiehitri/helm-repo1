@@ -34,7 +34,7 @@ git push
 
 * Add and update helm repo
 ```console
-helm repo add helm-repo1 https://ylhsiehitri.github.io/helm-repo1/
+helm repo add helm-repo1 https://ylhsiehitri.github.io/helm-repo1
 helm repo update
 ```
 
