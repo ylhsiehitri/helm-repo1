@@ -1,5 +1,9 @@
 # Setup helm repo & chart artifact creation
 
+* Setting for Github Pages
+
+github repo --> Settings --> Pages --> Source: `branch` as `main`, and `folder` as `docs`
+
 * Download from github
 ```console
 git clone git@github.com:ylhsiehitri/helm-repo1.git
