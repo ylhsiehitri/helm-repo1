@@ -1,4 +1,4 @@
-# Setup helm repo
+# Setup helm repo & chart artifact creation
 
 * Download from github
 ```console
