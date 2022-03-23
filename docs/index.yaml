@@ -3,11 +3,11 @@ entries:
   cu:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-03-23T08:05:12.57756221Z"
+    created: "2022-03-23T08:10:46.720685822Z"
     description: A Helm chart for Kubernetes
     digest: 9acf78d54406f3abf284aeb4ef4adbf100f301ab5c72f0ed0bcaa4057f20f5d0
     name: cu
     urls:
-    - https://ylhsiehitri.github.io/helm-repo1/docs/cu-0.1.0.tgz
+    - https://ylhsiehitri.github.io/helm-repo1/cu-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-23T08:05:12.576187573Z"
+generated: "2022-03-23T08:10:46.719711801Z"
